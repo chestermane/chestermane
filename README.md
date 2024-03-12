@@ -35,6 +35,7 @@
 
 #
  <summary><h3>👨‍💻 Evan's Coding Journey</h3></summary>
+
  My coding journey began as a computer science major at Gwinnett Technical College, where my aspirations first took root. Initially, I was captivated by the potential of iOS development, dreaming of creating an application that was entirely my own. However, as my studies progressed, I found myself drawn more and more to the versatility and ubiquity of JavaScript. This newfound passion wasn't just about following a trend; it was about embracing a language that powers the web and opens doors to endless possibilities.
 
 The deeper I delved into JavaScript, the more my initial dream of iOS development faded, giving way to a profound appreciation for the immediacy and impact of web development. It became clear that JavaScript, with its dynamic capabilities and broad applicability, was where my true passion lay. This shift led me to specialize in web technologies, continually exploring the vast landscape of the internet and its myriad of opportunities for innovation and creativity.
