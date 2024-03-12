@@ -29,9 +29,7 @@
 <br />
 
 ### 📊 Stats
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chestermane&show_icons=true&theme=onedark)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=chestermane&theme=gruvbox&border_radius=4.5) -->
+[![Evan's GitHub Streak](https://streak-stats.demolab.com?user=chestermane&theme=gruvbox-duo)](https://git.io/streak-stats)
 
 #
  <summary><h3>👨‍💻 Evan's Coding Journey</h3></summary>
