@@ -27,8 +27,10 @@ I am a full-stack Software Engineer with five years of experience in developing 
  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=chestermane&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chestermane&theme=calm&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chestermane&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #
