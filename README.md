@@ -21,7 +21,6 @@ I am a full-stack Software Engineer with five years of experience in developing 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chestermane&theme=calm&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chestermane&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 #
  <summary><h3>👨‍💻 Evan's Coding Journey</h3></summary>
 My coding journey began as a computer science major at Gwinnett Technical College, where my aspirations first took root. Initially, I was captivated by the potential of iOS development, dreaming of creating an application that was entirely my own. However, as my studies progressed, I found myself drawn more and more to the versatility and ubiquity of JavaScript. This newfound passion wasn't just about following a trend; it was about embracing a language that powers the web and opens doors to endless possibilities.
