@@ -27,8 +27,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+<br />
 ### 📊 Stats
-<br>
 ![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chestermane&show_icons=true&theme=onedark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
