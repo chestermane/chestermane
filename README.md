@@ -5,7 +5,6 @@
 I am a full-stack Software Engineer with five years of experience in developing scalable, high-performance enterprise software applications across fintech and aviation sector. Proficient in a wide range of technologies, including React, Angular, Typescript, GraphQL, Node, and AWS. Demonstrated success in leading projects from conception to deployment, optimizing system performance, and mentoring junior engineers. Passionate about leveraging technical expertise to drive business outcomes and committed to continuous learning and professional growth. Seeks challenging opportunities to contribute to innovative software solutions.
 
 ###
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/evan-chesterman/)
 
 ---
@@ -28,8 +27,9 @@ I am a full-stack Software Engineer with five years of experience in developing 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=chestermane&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chestermane&theme=calm&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=chestermane&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=chestermane&theme=calm&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chestermane&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
