@@ -42,5 +42,4 @@ Today, my focus is on mastering web development, leveraging JavaScript to bring 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chestermane&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <a href="https://app.daily.dev/evanc"><img src="https://api.daily.dev/devcards/v2/jIzolFDc7q7EcowhCYwZZ.png?r=nan&type=default" width="356" alt="Evan Chesterman's Dev Card"/></a>
