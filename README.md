@@ -32,13 +32,6 @@ I am a full-stack Software Engineer with five years of experience in developing 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chestermane&theme=calm&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chestermane&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-#
- <summary><h3>👨‍💻 Evan's Coding Journey</h3></summary>
-My coding journey began as a computer science major at Gwinnett Technical College, where my aspirations first took root. Initially, I was captivated by the potential of iOS development, dreaming of creating an application that was entirely my own. However, as my studies progressed, I found myself drawn more and more to the versatility and ubiquity of JavaScript. This newfound passion wasn't just about following a trend; it was about embracing a language that powers the web and opens doors to endless possibilities.
-
-The deeper I delved into JavaScript, the more my initial dream of iOS development faded, giving way to a profound appreciation for the immediacy and impact of web development. It became clear that JavaScript, with its dynamic capabilities and broad applicability, was where my true passion lay. This shift led me to specialize in web technologies, continually exploring the vast landscape of the internet and its myriad of opportunities for innovation and creativity.
-
-Today, my focus is on mastering web development, leveraging JavaScript to bring to life engaging, responsive websites and applications. My journey from an aspiring iOS developer to a dedicated JavaScript enthusiast underscores the importance of evolution in the tech field—of being open to new directions and seizing the opportunities they present. It's a path of continual learning, adapting, and growing, always aiming to harness the full potential of the technologies at my fingertips.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chestermane&icon=0&color=0)](https://visitcount.itsvg.in)
